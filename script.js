@@ -96,7 +96,7 @@
     const whatsappLink = document.getElementById('whatsapp-link');
     
     // Set WhatsApp number
-    const whatsappNumber = "91"; // Joyti's WhatsApp number
+    const whatsappNumber = "917878084019"; // Joyti's WhatsApp number
     
     // Set WhatsApp link in contact section
     if (whatsappLink) {
